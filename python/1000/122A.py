@@ -13,13 +13,9 @@ lucky_divisor = 4
 while lucky_divisor < n and not flag:
     if n % lucky_divisor == 0:
         flag = True
-    else:
-        lucky_divisor += 1
+    else: # seems inefficient 
+        lucky_divisor += 1 
         while not is_lucky(lucky_divisor):
             lucky_divisor += 1
 
-if flag:
-    print("YES")
-else:
-    print("NO")
-
+print("YES" if flag else "NO")
