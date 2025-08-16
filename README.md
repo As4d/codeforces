@@ -1,10 +1,16 @@
-# 📊 Codeforces Submissions 
+# 📊 Codeforces Submissions
 
-My solutions to Codeforces problems in C++ and Python.
+Solutions to Codeforces problems in C++ and Python.
+
+Profile: [crispichikin](https://codeforces.com/profile/crispichikin)
+
+> **Disclaimer:** My solutions aren't always the most optimised or best practice.
+
+## 🏆 Contest Results
+No contests yet—I'm new!
 
 ## 📂 Structure
 - `/cpp` — C++ solutions
 - `/python` — Python solutions
-- Inside each language folder:
-  - Subfolders by difficulty rating (e.g., `800`, `900`).
-  - Files named after Codeforces problem codes (e.g., `4A.py`).
+  - Subfolders by difficulty (e.g., `800`, `900`)
+  - Files named after problem codes
