@@ -11,9 +11,7 @@ groups = {1:0, 2:0, 3:0, 4:0}
 for g in s:
     groups[g] += 1
 
-c = 0
-
-c += groups[4] 
+c = groups[4] 
 
 c += groups[3]
 groups[1] -= groups[3]
