@@ -15,5 +15,10 @@ Profile: [crispichikin](https://codeforces.com/profile/crispichikin)
 
 ## 🏆 Contest Results
 
+- [Codeforces Round 1044 (Div. 2)](https://codeforces.com/contest/2133) — Aug 24, 2025  
+  Rank: 18,840 | Solved: 1 | Rating +225 → **623**  
+  ⏱️ Joined late, didn’t have the full contest duration  
+
 - [Codeforces Round 1043 (Div. 3)](https://codeforces.com/contest/2132) — Aug 21, 2025  
-  Rank: 17,852 | Solved: 2 | Rating +398 → **398**
+  Rank: 17,852 | Solved: 2 | Rating +398 → 398  
+
